@@ -1,0 +1,20 @@
+.user-avatar {
+  width: 56px;
+  height: 56px;
+  border: 2.08948px solid #ffffff;
+  border-radius: 50%;
+  display: block;
+}
+
+@media (max-height: 910px) {
+  .user-avatar {
+    width: 46px !important;
+    height: 46px !important;
+  }
+}
+@media (max-width: 1000px) {
+  .user-avatar {
+    width: 38px !important;
+    height: 38px !important;
+  }
+}
