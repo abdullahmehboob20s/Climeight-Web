@@ -140,7 +140,7 @@
   -moz-text-fill-color: transparent;
 }
 
-@media (max-height: 910px) {
+@media (max-height: 970px) {
   :root {
     --fs-14px: 14px;
     --fs-12px: 12px;
