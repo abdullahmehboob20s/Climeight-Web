@@ -225,6 +225,7 @@
   }
   .sponsors {
     justify-content: center;
+    gap: 1.5rem !important;
   }
   .sponsors img {
     width: 60px;
