@@ -213,7 +213,7 @@ input {
   background-color: transparent;
 }
 
-@media (max-height: 650px) {
+@media (max-height: 740px) {
   :root {
     --fs-14px: 10px !important;
     --fs-12px: 11px !important;
@@ -236,7 +236,7 @@ input {
   }
 }
 
-@media (max-height: 910px) {
+@media (max-height: 970px) {
   :root {
     --fs-14px: 14px;
     --fs-12px: 12px;

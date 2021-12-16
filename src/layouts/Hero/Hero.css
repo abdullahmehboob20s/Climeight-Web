@@ -173,7 +173,7 @@
     width: 22%;
   }
 }
-@media (max-height: 650px) {
+@media (max-height: 740px) {
   .hero-input {
     padding: 12px 20px;
   }
@@ -212,7 +212,7 @@
   }
 }
 
-@media (max-width: 650px) {
+@media (max-width: 740px) {
   .sponsors img {
     width: 80px;
   }

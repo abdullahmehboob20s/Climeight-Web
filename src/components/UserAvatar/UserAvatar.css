@@ -6,7 +6,7 @@
   display: block;
 }
 
-@media (max-height: 910px) {
+@media (max-height: 970px) {
   .user-avatar {
     width: 46px !important;
     height: 46px !important;
